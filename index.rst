@@ -33,13 +33,17 @@ How to Connect a Brother Printer Wirelessly (Windows/Mac)
 
 If you're trying to **connect a Brother wireless printer**, here’s how to do it:
 
-### For Windows:
+For Windows
+~~~~~~~~~~~
+
 - Go to `setup.brother.com <https://setup.brother.com>`_.
 - Install the driver and launch the Brother installer.
 - Select **Wireless Network Connection** > Follow the on-screen steps.
 - Once connected, Windows will automatically detect and configure your printer.
 
-### For Mac:
+For Mac
+~~~~~~~
+
 - Go to the site and download the macOS-compatible installer.
 - Use the **Wireless Setup Wizard** included in the software.
 - The installer will detect your Wi-Fi network and configure the printer.
