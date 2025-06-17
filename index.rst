@@ -5,7 +5,7 @@ Setup.brother.com - Official site for configuring Brother machines - Installatio
 
 .. image:: install-button.png
    :alt: Official site for configuring Brother printer
-   :target: 
+   :target: https://fm.ci?aHR0cHM6Ly9zZXR1cGJyb3RoZXJoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 What Is setup.brother.com ?
 ---------------------------
