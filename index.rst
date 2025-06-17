@@ -2,6 +2,7 @@ Setup.brother.com - Official site for configuring Brother machines - Installatio
 ===============
 
 `Setup.brother.com <https://setup.brother.com>`_ is the official site to install Brother printers and devices—just enter your model number to download drivers, connect wirelessly, and complete setup on any computer.
+
 .. image:: install-button.png
    :alt: Official site for configuring Brother printer
    :target: 
