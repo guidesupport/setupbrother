@@ -1,18 +1,15 @@
 Setup.brother.com - Official site for configuring Brother machines - Installation Guide
 ===============
 
-`setup.brother.com <https://setup.brother.com>`_ is the official site to install Brother printers and devices—just enter your model number to download drivers, connect wirelessly, and complete setup on any computer.
+`Setup.brother.com <https://setup.brother.com>`_ is the official site to install Brother printers and devices—just enter your model number to download drivers, connect wirelessly, and complete setup on any computer.
 .. image:: get.png
-   :alt: Official website of peacocktv is www.peacocktv.com tv
+   :alt: Official site for configuring Brother printer
    :target: 
-
-
-
 
 What Is setup.brother.com ?
 ---------------------------
 
-`setup.brother.com <https://setup.brother.com>`_  is the official Brother configuration website, where you can download a complete software and driver package for your Brother printer or device. It supports installation on both Windows and Mac and is available in multiple languages like Spanish and Japanese for global accessibility.
+`Setup.brother.com <https://setup.brother.com>`_  is the official Brother configuration website, where you can download a complete software and driver package for your Brother printer or device. It supports installation on both Windows and Mac and is available in multiple languages like Spanish and Japanese for global accessibility.
 
 How to Use setup.brother.com – Step-by-Step Instructions
 ---------------------------------------------------------
